@@ -43,6 +43,7 @@
   
 
 <a href="https://github.com/jigneshjagads">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jigneshjagads&layout=compact)](https://github.com/jigneshjagads/github-readme-stats)
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jigneshjagads&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/jigneshjagads">
