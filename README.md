@@ -40,18 +40,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 
-  
 
-<a href="https://github.com/jigneshjagads">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jigneshjagads&layout=compact)](https://github.com/jigneshjagads/github-readme-stats)
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jigneshjagads&theme=light&hide_langs_below=1" />
-</a>
 <a href="https://github.com/jigneshjagads">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jigneshjagads&show_icons=true&theme=light&line_height=27" alt="Jignesh's github stats"/>
-</a>
-<a href="https://github.com/SaeculumSolutions/Jetpack-CameraX-Android">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jigneshjagads&repo=Jetpack-CameraX-Android&theme=light" />
-
 </a>
 
 <div align="center">
