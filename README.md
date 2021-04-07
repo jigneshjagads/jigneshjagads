@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jigneshjagads&label=Views&color=blue&style=plastic" alt="jigneshjagads" /> </p>
+
 - 👋 Hi, I’m @jigneshjagads
 - 👀 I’m interested in android development
 - 🌱 I’m currently learning flutter
