@@ -1,5 +1,5 @@
 
-### Hello Jignesh 👋
+### Hello 👋
 
 ## Nice meeting you, I'm [Jignesh Jagad!]
 
